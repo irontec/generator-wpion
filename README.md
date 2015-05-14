@@ -11,7 +11,7 @@
 npm install -g yo
 ```
 
-* Install the generator
+* Install the generator  
 To install generator-wpion from npm, run:
 
 ```bash
