@@ -1,3 +1,7 @@
+# Deprecated ;)
+
+Better use [Ionic-starter-wpion](https://github.com/irontec/ionic-stater-wpion)
+
 # generator-wpion
 
 > [Yeoman](http://yeoman.io) generator for [WordPress](https://wordpress.com/) based Mobile Applications running on top of [Ionic](http://ionicframework.com/)
